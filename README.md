@@ -7,3 +7,5 @@ video: https://www.bilibili.com/video/BV1NA4m137hB/?share_source=copy_web&vd_sou
 reference: http://t.csdnimg.cn/4bGRS
 
 resource:：https://pan.baidu.com/s/16y1XQ7iHyFXZYuKFSHqk6A&pwd=1234
+
+需求分析：https://blog.csdn.net/qq_51553982/article/details/123582677
